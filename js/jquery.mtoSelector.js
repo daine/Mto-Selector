@@ -1,3 +1,7 @@
+/*
+ * mtoSelector
+ * Copyright 2011 Daine Trinidad
+ */
 (function( $ ){
 
       $.fn.mtoSelector = function(options) {
