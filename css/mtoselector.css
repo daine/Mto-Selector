@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+
+.ui-mto-options { padding: 5px; background-color: #222222; color: #dfdfdf; border: 1px solid #454545; height: 20px; padding-top: 10px;}
+.ui-mto-horizontal{float: left;}
+.ui-mto { float: left; font-family: "Vegur Bold"; font-size: 18px; text-align: left; width: 100%; padding: 3px;}
+.ui-dropdown{ cursor: pointer; cursor: hand; width: 100%;}
+.ui-mto-up-button { background: url('../images/up_arrow.png') center no-repeat; cursor: pointer; cursor: hand; padding-bottom: 10px; height: 10px; width: 50px;}
+.ui-mto-up-button:hover { background: url('../images/blue_up_arrow.png') center no-repeat;}
+.ui-mto-down-button { background: url('../images/down_arrow.png') center no-repeat; cursor: pointer; cursor: hand; padding-top: 10px; height: 10px; width: 50px; }
+.ui-mto-down-button:hover { background: url('../images/blue_down_arrow.png') center no-repeat; }
+.ui-mto-left-button{ float: left; background: url('../images/left_arrow.png') center no-repeat; cursor: pointer; cursor: hand; padding-right: 10px; height: 37px; width: 10px;}
+.ui-mto-left-button:hover{ background: url('../images/blue_left_arrow.png') center no-repeat;}
+.ui-mto-right-button{ float: left; background: url('../images/right_arrow.png') center no-repeat; cursor: pointer; cursor: hand; padding-left: 10px; height: 37px; width: 10px;}
+.ui-mto-right-button:hover{ background: url('../images/blue_right_arrow.png') center no-repeat;}
